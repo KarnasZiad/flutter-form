@@ -1,6 +1,6 @@
 # flutter form app
 
-
+./screenshots
 
 ## Getting Started
 
